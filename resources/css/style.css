@@ -12,9 +12,6 @@ html {
 }
 
 /* header */
-header {
-	height: 31rem;
-}
 
 /* banner styling and layout */
 .banner {
@@ -22,20 +19,22 @@ header {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 100%;
+	height: 31rem;
 	width: 100%;
 	display: flex;
 	flex-direction: column;
+	align-items: flex-start;
+
 }
 
 #banner-text-container {
 	display: flex;
 	justify-content: flex-end;
+    margin-top: 10rem;
 }
 
 .banner-text {
-margin-top: 10rem;
-margin-right: -2rem;
+		margin-right: -2rem;
 }
 
 .banner-text h1 {
@@ -45,6 +44,8 @@ margin-right: -2rem;
 	font-weight: bold;
 	line-height: 1.2;
 	text-transform: uppercase;
+	margin: 0 auto;
+	text-align: center;
 }
 
 /* top-bar positioning, styling and layout */
@@ -75,7 +76,7 @@ margin-right: -2rem;
 	display: flex;
 }
 
-.top-menu ul {
+.full-menu {
 	display: flex;
 }
 
@@ -83,7 +84,7 @@ margin-right: -2rem;
 	padding: 1rem;
 }
 
-.menu-button {
+.short-menu {
 	display: none;
 }
 
@@ -113,6 +114,7 @@ margin-right: -2rem;
 
 .usp p {
 	text-align: center;
+	margin: 0 auto;
 }
 
 /* info section styling */
@@ -154,4 +156,110 @@ footer img {
 
 footer span {
 	margin-left: 1rem;
+}
+
+/* narrow desktop window, tablet styles */
+
+@media only screen and (max-width: 1040px) {
+	.container {
+		width: 100%;
+	}
+
+	.banner {
+		height: 22rem;
+	}
+
+	#banner-text-container {
+		margin-top: 5rem;
+	}
+
+	.banner-text {
+		margin-right: 2rem;
+	}
+
+	.banner-text h1 {
+		font-size: 1.33rem;
+		padding: 0.75rem 4rem;
+	}
+
+	#top-bar {
+		margin-top: 0;
+	}
+}
+
+@media only screen and (max-width: 577px) {
+	.banner {
+		height: 17rem; 
+		background-position: 20%;
+	}
+
+	#banner-text-container {
+		margin-top: 9rem;
+	}
+
+	.banner-text {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.banner-text h1 {
+		padding: 1rem 0;
+		font-size: 1rem;
+	}
+
+	.full-menu {
+		display: none;
+	}
+
+	.short-menu {
+		display: block;
+	}
+
+	.selling-points {
+		flex-direction: column;
+		margin-top: 3.77rem;
+		margin-bottom: 2.23rem;
+	}
+
+	.usp {
+		margin: 0 auto;
+		padding: 0 0 1.54rem 0;
+		align-items: flex-start;
+		justify-content: flex-start;
+		height: 100%;
+	}
+
+	.usp p {
+		font-size: 0.77rem;
+	}
+
+	.info-container {
+		flex-direction: column;
+		margin-bottom: 1rem;
+	}
+
+	.info {
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	.info h3 {
+		width: 100%;
+		text-align: center;
+		padding: 0.25rem 0;
+	}
+
+	.info p {
+		width: 95%;
+		margin: 1rem auto 4rem auto;
+	}
+
+	footer span {
+		display: none;
+	}
+
+	footer img {
+		margin: 0 auto;
+		padding: 0;
+	}
 }

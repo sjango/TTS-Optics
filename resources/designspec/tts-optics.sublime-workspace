@@ -4,20 +4,84 @@
 		"selected_items":
 		[
 			[
-				"sp",
-				"space-around"
+				"u",
+				"ul\tTag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"al",
+				"align-items"
 			],
 			[
 				"margin",
-				"margin-bottom"
+				"margin-top"
 			],
 			[
-				"flex",
-				"flex-start"
+				"font",
+				"font-weight"
 			],
 			[
 				"padd",
 				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"fl",
+				"flex-end"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"flex",
+				"flex-start"
 			],
 			[
 				"wd",
@@ -26,10 +90,6 @@
 			[
 				"inlin",
 				"inline"
-			],
-			[
-				"marg",
-				"margin-top"
 			],
 			[
 				"te",
@@ -48,24 +108,12 @@
 				"div\tTag"
 			],
 			[
-				"di",
-				"display"
-			],
-			[
 				"padding",
 				"padding"
 			],
 			[
-				"fon",
-				"font-size"
-			],
-			[
 				"text",
 				"text-transform"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"backgroun",
@@ -78,10 +126,6 @@
 			[
 				"backgrou",
 				"background-image"
-			],
-			[
-				"h",
-				"h4\tTag"
 			],
 			[
 				"li",
@@ -108,16 +152,8 @@
 				"images"
 			],
 			[
-				"f",
-				"flex"
-			],
-			[
 				"in",
 				"inline"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"bl",
@@ -125,10 +161,6 @@
 			],
 			[
 				"ali",
-				"align-content"
-			],
-			[
-				"al",
 				"align-content"
 			],
 			[
@@ -144,20 +176,12 @@
 				"color"
 			],
 			[
-				"ba",
-				"background-color"
-			],
-			[
 				"pic",
 				"pic-container"
 			],
 			[
 				"H",
 				"H4\tTag"
-			],
-			[
-				"mar",
-				"margin"
 			],
 			[
 				"mag",
@@ -174,10 +198,6 @@
 			[
 				"tex",
 				"text-align"
-			],
-			[
-				"margi",
-				"margin-top"
 			],
 			[
 				"img",
@@ -250,14 +270,6 @@
 			[
 				"day",
 				"day2"
-			],
-			[
-				"u",
-				"u\tTag"
-			],
-			[
-				"l",
-				"li\tTag"
 			]
 		]
 	},
@@ -267,7 +279,7 @@
 			"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/index.html",
 			"settings":
 			{
-				"buffer_size": 99,
+				"buffer_size": 2055,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -276,7 +288,8 @@
 			"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources/css/style.css",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 2959,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -314,14 +327,16 @@
 	"expanded_folders":
 	[
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics",
-		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources"
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources/images"
 	],
 	"file_history":
 	[
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/SecretAgentSupply/resources/css/style.css",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/MyTimes/index.html",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/SecretAgentSupply/resources/css/reset.css",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/MyTimes/resources/css/styling.css",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/IbsrTherapy/IBSR.sublime-project",
-		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/MyTimes/index.html",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/excursion/resources/css/style.css",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/excursion/index.html",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/DasmotosArtsAndCrafts/index.html",
@@ -394,7 +409,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -403,54 +418,56 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 99,
+						"buffer_size": 2055,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								59,
-								59
+								911,
+								911
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 398.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
 					"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources/css/style.css",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 2959,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1576,
+								1576
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1403.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
