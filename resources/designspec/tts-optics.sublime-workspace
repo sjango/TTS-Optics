@@ -1,0 +1,541 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pic",
+				"pic-container"
+			],
+			[
+				"H",
+				"H4\tTag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"fony",
+				"font-family"
+			],
+			[
+				"felx",
+				"flex-direction"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"img",
+				"img-story-1"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"s",
+				"story"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backgroung",
+				"background-image"
+			],
+			[
+				"st",
+				"stelling2"
+			],
+			[
+				"ste",
+				"stelling1"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"da",
+				"day3"
+			],
+			[
+				"day",
+				"day2"
+			],
+			[
+				"u",
+				"u\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/index.html",
+			"settings":
+			{
+				"buffer_size": 99,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources/css/style.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources"
+	],
+	"file_history":
+	[
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/SecretAgentSupply/resources/css/reset.css",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/MyTimes/resources/css/styling.css",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/IbsrTherapy/IBSR.sublime-project",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/MyTimes/index.html",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/excursion/resources/css/style.css",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/excursion/index.html",
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/DasmotosArtsAndCrafts/index.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/GhostOrchid/index.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/GhostOrchid/Resources/CSS/stylesheet.css",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/IbsrTherapy/Therapie week 30.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/IbsrTherapy/Therapie week 27.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/IbsrTherapy/Therapie week 28.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/IbsrTherapy/Therapie week 29.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/IbsrTherapy/index.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/TwoSandalsSoupsAndSalads/index.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/TwoSandalsSoupsAndSalads/home.html",
+		"/Volumes/Mac HD/shangho/Creative ventures/Coding/webdevelopment/Paris/index.html",
+		"/Volumes/Mac HD/shangho/Desktop/weather.html",
+		"/Volumes/Mac HD/shangho/Desktop/Therapie week 29.html",
+		"/Volumes/Mac HD/shangho/Desktop/Therapie week 28.html",
+		"/Volumes/Mac HD/shangho/Desktop/Therapie week 27.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"span",
+			"</p>",
+			"<p>",
+			"p",
+			"image-caption",
+			"caption",
+			"h3",
+			"h1",
+			"h2",
+			"h3",
+			"h4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h4",
+			"</span>",
+			"<span>",
+			"photo",
+			"image-caption",
+			"h4",
+			"h2",
+			"h3",
+			"h4"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources/css/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tts-optics.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
