@@ -47,7 +47,7 @@ margin-right: -2rem;
 	text-transform: uppercase;
 }
 
-/* top-bar positioning styling and layout */
+/* top-bar positioning, styling and layout */
 #top-bar {
 	display: flex;
 	justify-content: space-between;
@@ -87,3 +87,71 @@ margin-right: -2rem;
 	display: none;
 }
 
+/* main content */
+
+/* usp section styling */
+
+.selling-points {
+	display: flex;
+	justify-content: center;
+	margin-top: 3rem;
+}
+
+.usp {
+	display: flex;
+	flex-direction: column;
+	height: 8rem;
+	width: 5rem;
+	justify-content: space-between;
+	padding: 0 3rem;
+}
+
+.usp img {
+	width: 3rem;
+	margin: 0 auto;
+}
+
+.usp p {
+	text-align: center;
+}
+
+/* info section styling */
+
+.info-container {
+	margin-top: 3rem;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5rem;
+}
+
+.info {
+	margin: 0 2.5%;
+	width: 35%;
+}
+
+.info h3 {
+	background-color: cadetblue;
+	width: 10rem;
+	font-weight: bold;
+	color: white;
+	padding: 0.25rem 1.25rem;
+	margin-bottom: 1rem;
+}
+
+/* footer */
+
+footer {
+	background-color: azure;
+	height: 9.5rem;
+	display: flex;
+	align-items: center;
+}
+
+footer img {
+	height: 1.5rem;
+	padding-left: 4rem;
+}
+
+footer span {
+	margin-left: 1rem;
+}
