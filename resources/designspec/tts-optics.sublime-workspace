@@ -4,16 +4,32 @@
 		"selected_items":
 		[
 			[
-				"u",
-				"ul\tTag"
+				"marg",
+				"margin-top"
+			],
+			[
+				"fl",
+				"flex-start"
 			],
 			[
 				"mar",
-				"margin"
+				"margin-left"
 			],
 			[
-				"marg",
-				"margin"
+				"di",
+				"display"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"u",
+				"ul\tTag"
 			],
 			[
 				"bac",
@@ -28,10 +44,6 @@
 				"font-size"
 			],
 			[
-				"al",
-				"align-items"
-			],
-			[
 				"margin",
 				"margin-top"
 			],
@@ -44,16 +56,8 @@
 				"padding"
 			],
 			[
-				"margi",
-				"margin"
-			],
-			[
 				"sp",
 				"space-between"
-			],
-			[
-				"fl",
-				"flex-end"
 			],
 			[
 				"ba",
@@ -74,10 +78,6 @@
 			[
 				"l",
 				"li\tTag"
-			],
-			[
-				"di",
-				"div\tTag"
 			],
 			[
 				"flex",
@@ -288,7 +288,7 @@
 			"file": "/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/tortoisesshelloptics/resources/css/style.css",
 			"settings":
 			{
-				"buffer_size": 2959,
+				"buffer_size": 3551,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -425,8 +425,8 @@
 						"selection":
 						[
 							[
-								911,
-								911
+								1404,
+								1404
 							]
 						],
 						"settings":
@@ -435,7 +435,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 398.0,
+						"translation.y": 623.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -447,15 +447,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2959,
+						"buffer_size": 3551,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1576,
-								1576
+								2879,
+								2887
 							]
 						],
 						"settings":
@@ -464,7 +464,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1403.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
